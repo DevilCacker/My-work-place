@@ -1,0 +1,61 @@
+Role,Company,Location,Mail ID,Contact No
+Analy,Sutherland Global Services,"Balaji Nagar, Chennai",pa.narasimhan@sutherlandglobal.com,"044 4391 7884 , +91-44-7101-7886"
+Analy,Cholamandalam Investment and Finance company,"Guindy, Chennai",corporatecommunications@ chola.murugappa.com," 044 - 40906114 , 04439873000"
+Analy,Societe generale,"Manapakkam, Chennai",gsc-cs-compliance@socgen.com,91 4466027000
+Analy,Scope e-knowledge center,"Nandambakkam , Chennai",stm-ks@scopeknowledge.com,91 4424314201
+Analy,Hexwawares Technologies,"SIPCOT IT Park , Chennai",marketing@hexaware.com,"91 02267919595 , 044-47451000"
+Analy,Latent view Analytics,"Tharamani, Chennai",info@latentview.com,044 4344 1700
+Analy,Thought works,"Tharamani, Chennai",au@thoughtworks.com,"61 73129 4506 , 04449018400"
+Analy,Hewlett Packard Enterprise,"Tharamani, Chennai",support@hp.com,"044 4458 6111 , 1800 419 8080"
+Analy,Ramco systems,"Tharamani, Chennai",contact@ramco.com,"91 44 2235 4510 , 91 44 6653 4000"
+DA,Experian,"Hyderabad, Telangana",mediarelations@experian.com,1 888 397 3742 
+DA,L&T Technology services,"Manapakkam,Chennai",info@ltts.com,044 6630 2000
+DA,Mphasis,"Manapakkam,Chennai",subramanian.narayan@mphasis.com,044 6637 0000
+DA,Qube cinemas,"Mylapore, Chennai",divya.venkat@qubecinema.com ,044 4204 1505
+DA,TVS motor company,"Nungambakkam, Chennai",sales.support@tvsmotor.com,"044 2833 2115 , 91 4344276780"
+DA,Hinduja Global Solution,"Nungambakkam, Chennai",investor.relations@teamhgs.com,"044 4289 8888 , 022-24960707"
+DA,CSS Crop,Perungalathur Chennai,"corporate.marketing@csscorp.com , ","04461041800 , (044) 66768000"
+DA,Freshworks,"Perungudi, Chennai",careers@freshworks.com,044 6667 8040
+DA,Verizon Data Services India,"Perungudi, Guindy,  Chennai","devakumar.ramamoorthy@verizon.com , ask.careers@verizon.com",044 4394 5000
+DA,Photon Interactive,"Ramapuram, Chennai",parthasarathy.krishnamurthy@photoninfotech.net,044 3061 8000
+DA,Sundaram Infotech,"Royapettah, Chennai",customercare@sundaramfinance.in,"044 2851 4066 , 91 44 2852 1181"
+DA,HCL Technologies,"Sholinganallur, Chennai",investors@hcl.com,"(044) 61050000 , 66429000"
+DA,Ford India,"Sholinganallur, Chennai",custmail@ford.com,"97898 96111 , 86575 89376"
+DA,Tarams Software Technologies,"Sholinganallur, Chennai",jobs@tarams.com,
+DA,Hexagon Capability center India,"T. Nagar, Chennai",customer_desk@hexagon.org.uk,91 4071035000
+DA,Inautix Technologies,"Taramani,Chennai","CAREERS@INAUTIX.COM , contact@connect2India.com",044 2254 6000
+DA,Caterpiller,"Tharamani, Chennai",company_secretary@cat.com,080080 66832
+DA,Zoho corporation,"Vallancherry, Taluk, Chengalpattu","sales@zohocorp.com  ,  support@zoho.com",1800 103 1123
+Da&DS,Veritas Technologies,Pune,"customercare@veritasregistrars.com ,  enquiry@veritasregistrars.com",800-9190086
+Da&DS,Mindtree,"Tharamani, Chennai",info@mindtree.com,"044 6671 1100 , 91 80 67064000"
+DA&ML,Quintiles IMS (IQVIA),"Guindy, Chennai",Qsecretarialindia@iqvia.com,044 3967 2301
+DA&ML,Paypal,"Sholinganallur, Chennai","paypalglobaltalentacquisition@paypal.com , employeecentralcases@paypal.com","(044) 66348000 , 66348001"
+DA&ML,Infosys,"Sholinganallur, Chennai",askus@infosys.com,"044 2450 9530 , 8028520261"
+DA&ML,Amazon,"Tharamani, Chennai",https://www.amazon.jobs/,1-888-892-7180
+DA&Vis,Capgemini,"Karapakkam, Chennai",fresherhiring.in@capgemini.com,044-6749 2000
+DA&Vis,Deloitte,"T-nagar,Chennai",usindiaogc@deloitte.com,91 44 6688 5000
+DA&Vis,TCS,"Velachery, Chennai",careers@tcs.com,"1800-209-3111, 044 6616 6999"
+Data,Daimler India,"Perungudi, Chennai",dialog@daimler.com,044 4599 6000
+DS,Searce,"Perungudi, OMR, Chennai",careers@searce.com,7947121083
+DS,INautix (BNY mellon),"Tharamani, Chennai",bnymellonbrokerage@bnymellon.com,"91 44 2254 6000 , 1-800-843-5466"
+DS& Analy,Mu sigma,"EPIP Zone, Bengaluru",ContactUs@mu-sigma.com,80 7154 8000
+DS& Analy,Tiger Analytics,"Perungudi, Chennai",venugopal@tigeranalytics.com,040 8508 4430
+DS&DA,SAP Labs India,"Brookefield, Bengaluru","sapnetwork@sap.com , kalindee.mehta@sap.com","80 4329 4444,(080) 66655771, +496227747474"
+DS&DA,Virtusa,"Navalur, Chennai",careers@virtusa.com,91 443 927 7700
+DS&DA,Cognizant,"Sholinganallur, Chennai",CareersNA2@cognizant.com,"044 4209 6000, +91 44 42096060"
+DS&DA,Wipro,"Sholinganallur, Chennai",reachus@wipro.com,"044 2450 0200, +91 80 4233 4233"
+DS&DA,Accenture,"Sholinganallur, Chennai","John.Smith@accenture.com , deepshikha.agrawal@accenture.com","044 4078 2183 , +914442670000 , 4442670001"
+DS&DA,Standard chartered Global Business Services,"Sholinganallur, Chennai","Head.Service@sc.com , AskHR@sc.com",044 2821 9188 
+DS&DA&ML,IBM,"Perungudi, Chennai",infoibm@us.ibm.com,"1800 102 3865,"
+MA,Maersk Global Services Center,"Porur, Chennai",sales.support@maersk.com,"044 6693 4000 , 63 282313126"
+MA,Vuram Technnology solution,"Saligramam, Chennai",jobs@vuram.com, 044 4910 2200
+MA,ZS Associates,,,
+ML,Compindia," Aminjikarai, Chennai",info@compindia.com,"044 4261 3578, +919876543210"
+PY,4W technologies,"Guindy, Chennai",saranconsultancy@gmail.com ,"044 4332 2313, 90032 72208"
+PY,Igarashi Motors India Limited,"Tambaram, Chennai ",igarashi@igarashimotors.co.in,91-44-42298100
+PY,Spiro Prime Tech Services,"T. Nagar, Chennai",spiroprojects@gmail.com,"9791 044 044 , 9962 067 067"
+PY,Appadore,"Cochin, Kerala",info@appadore.com,
+PY,Newt global ,"Gandhi Salai, Chennai",info@newtglobal.com,"044 6740 2999 , 972 887 3159"
+PY,Valiant Systems,"Porur, Chennai",info@valiantsystems.com,"96000 44464, 91 99401 81721"
+PY,Surya Informatics,"Ashok Nagar, Chennai",careers@suryainformatics.com,044 4203 3355
+PY,Logic Soft,"Gopalapuram, Chennai",shrayasr@logicsoft.co.in,044 4208 9492 / 93
